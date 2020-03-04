@@ -1,0 +1,7 @@
+package com.oauth.authentication;
+
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+
+public class AuthenticationServer extends WebSecurityConfigurerAdapter {
+
+}
